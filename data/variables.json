@@ -1,0 +1,119 @@
+{
+    "variables": [
+        {
+            "name": "Gender",
+            "type": "categorical",
+            "group_name": "Gender"
+        },
+        {
+            "name": "Age",
+            "type": "continuous",
+            "group_name": "Age"
+        },
+        {
+            "name": "Senior Citizen",
+            "type": "binary",
+            "group_name": "Senior Citizen"
+        },
+        {
+            "name": "Married",
+            "type": "binary",
+            "group_name": "Married"
+        },
+        {
+            "name": "Number of Dependents",
+            "type": "continuous",
+            "group_name": "Number of Dependents"
+        },
+        {
+            "name": "Number of Referrals",
+            "type": "continuous",
+            "group_name": "Number of Referrals"
+        },
+        {
+            "name": "Tenure in Months",
+            "type": "continuous",
+            "group_name": "Tenure in Months"
+        },
+        {
+            "name": "Offer",
+            "type": "categorical",
+            "group_name": "Offer"
+        },
+        {
+            "name": "Phone Service",
+            "type": "binary",
+            "group_name": "Phone Service"
+        },
+        {
+            "name": "Multiple Lines",
+            "type": "binary",
+            "group_name": "Multiple Lines"
+        },
+        {
+            "name": "Internet Type",
+            "type": "categorical",
+            "group_name": "Internet Type"
+        },
+        {
+            "name": "Unlimited Data",
+            "type": "binary",
+            "group_name": "Unlimited Data"
+        },
+        {
+            "name": "Online Security",
+            "type": "binary",
+            "group_name": "Online Security"
+        },
+        {
+            "name": "Online Backup",
+            "type": "binary",
+            "group_name": "Online Backup"
+        },
+        {
+            "name": "Device Protection Plan",
+            "type": "binary",
+            "group_name": "Device Protection Plan"
+        },
+        {
+            "name": "Premium Tech Support",
+            "type": "binary",
+            "group_name": "Premium Tech Support"
+        },
+        {
+            "name": "Streaming TV",
+            "type": "binary",
+            "group_name": "Streaming TV"
+        },
+        {
+            "name": "Streaming Movies",
+            "type": "binary",
+            "group_name": "Streaming Movies"
+        },
+        {
+            "name": "Streaming Music",
+            "type": "binary",
+            "group_name": "Streaming Music"
+        },
+        {
+            "name": "Total Revenue",
+            "type": "continuous",
+            "group_name": "Total Revenue"
+        },
+        {
+            "name": "Paperless Billing",
+            "type": "binary",
+            "group_name": "Paperless Billing"
+        },
+        {
+            "name": "Payment Method",
+            "type": "categorical",
+            "group_name": "Payment Method"
+        },
+        {
+            "name": "Churn Label",
+            "type": "binary",
+            "group_name": "Churn Label"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+Source -> Destination (Weight)
+==============================
+Married                   -> Number of Referrals       (0.692)
+------------------------------
+Married                   -> Tenure in Months          (0.366)
+------------------------------
+Tenure in Months          -> Multiple Lines            (0.326)
+------------------------------
+Tenure in Months          -> Online Security           (0.308)
+------------------------------
+Tenure in Months          -> Online Backup             (0.351)
+------------------------------
+Tenure in Months          -> Device Protection Plan    (0.350)
+------------------------------
+Tenure in Months          -> Premium Tech Support      (0.307)
+------------------------------
+Tenure in Months          -> Streaming TV              (0.272)
+------------------------------
+Tenure in Months          -> Streaming Movies          (0.283)
+------------------------------
+Tenure in Months          -> Streaming Music           (0.234)
+------------------------------
+Multiple Lines            -> Total Revenue             (0.235)
+------------------------------
+Internet Type             -> Paperless Billing         (0.285)
+------------------------------
+Online Backup             -> Total Revenue             (0.222)
+------------------------------

@@ -1,0 +1,102 @@
+Source -> Destination (Weight)
+==============================
+Gender                    -> Offer                     (1.000)
+------------------------------
+Senior Citizen            -> Offer                     (1.000)
+------------------------------
+Married                   -> Number of Referrals       (1.000)
+------------------------------
+Married                   -> Tenure in Months          (1.000)
+------------------------------
+Number of Dependents      -> Number of Referrals       (1.000)
+------------------------------
+Number of Dependents      -> Tenure in Months          (1.000)
+------------------------------
+Number of Dependents      -> Offer                     (1.000)
+------------------------------
+Number of Referrals       -> Internet Type             (1.000)
+------------------------------
+Number of Referrals       -> Online Security           (1.000)
+------------------------------
+Tenure in Months          -> Multiple Lines            (1.000)
+------------------------------
+Tenure in Months          -> Online Security           (1.000)
+------------------------------
+Tenure in Months          -> Online Backup             (1.000)
+------------------------------
+Tenure in Months          -> Device Protection Plan    (1.000)
+------------------------------
+Tenure in Months          -> Premium Tech Support      (1.000)
+------------------------------
+Tenure in Months          -> Streaming Movies          (1.000)
+------------------------------
+Offer                     -> Multiple Lines            (1.000)
+------------------------------
+Offer                     -> Online Security           (1.000)
+------------------------------
+Offer                     -> Online Backup             (1.000)
+------------------------------
+Offer                     -> Device Protection Plan    (1.000)
+------------------------------
+Offer                     -> Premium Tech Support      (1.000)
+------------------------------
+Offer                     -> Streaming TV              (1.000)
+------------------------------
+Phone Service             -> Total Revenue             (1.000)
+------------------------------
+Multiple Lines            -> Total Revenue             (1.000)
+------------------------------
+Multiple Lines            -> Paperless Billing         (1.000)
+------------------------------
+Multiple Lines            -> Payment Method            (1.000)
+------------------------------
+Internet Type             -> Total Revenue             (1.000)
+------------------------------
+Internet Type             -> Paperless Billing         (1.000)
+------------------------------
+Internet Type             -> Payment Method            (1.000)
+------------------------------
+Unlimited Data            -> Total Revenue             (1.000)
+------------------------------
+Unlimited Data            -> Paperless Billing         (1.000)
+------------------------------
+Unlimited Data            -> Payment Method            (1.000)
+------------------------------
+Online Security           -> Total Revenue             (1.000)
+------------------------------
+Online Backup             -> Total Revenue             (1.000)
+------------------------------
+Online Backup             -> Paperless Billing         (1.000)
+------------------------------
+Device Protection Plan    -> Total Revenue             (1.000)
+------------------------------
+Device Protection Plan    -> Paperless Billing         (1.000)
+------------------------------
+Premium Tech Support      -> Total Revenue             (1.000)
+------------------------------
+Premium Tech Support      -> Payment Method            (1.000)
+------------------------------
+Streaming TV              -> Total Revenue             (1.000)
+------------------------------
+Streaming TV              -> Paperless Billing         (1.000)
+------------------------------
+Streaming TV              -> Payment Method            (1.000)
+------------------------------
+Streaming Movies          -> Total Revenue             (1.000)
+------------------------------
+Streaming Movies          -> Paperless Billing         (1.000)
+------------------------------
+Streaming Movies          -> Payment Method            (1.000)
+------------------------------
+Streaming Music           -> Total Revenue             (1.000)
+------------------------------
+Streaming Music           -> Paperless Billing         (1.000)
+------------------------------
+Streaming Music           -> Payment Method            (1.000)
+------------------------------
+Total Revenue             -> Churn Label               (1.000)
+------------------------------
+Paperless Billing         -> Churn Label               (1.000)
+------------------------------
+Payment Method            -> Churn Label               (1.000)
+------------------------------
