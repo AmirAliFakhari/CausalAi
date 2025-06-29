@@ -1,0 +1,16 @@
+Source -> Destination (Weight)
+==============================
+Married                   -> Number of Referrals       (0.681)
+------------------------------
+Married                   -> Tenure in Months          (0.393)
+------------------------------
+Tenure in Months          -> Multiple Lines            (0.319)
+------------------------------
+Tenure in Months          -> Online Backup             (0.356)
+------------------------------
+Tenure in Months          -> Device Protection Plan    (0.356)
+------------------------------
+Tenure in Months          -> Premium Tech Support      (0.302)
+------------------------------
+Tenure in Months          -> Streaming Movies          (0.302)
+------------------------------

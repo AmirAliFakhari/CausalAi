@@ -1,0 +1,54 @@
+Source -> Destination (Weight)
+==============================
+Married                   -> Number of Referrals       (0.726)
+------------------------------
+Married                   -> Tenure in Months          (0.704)
+------------------------------
+Number of Dependents      -> Number of Referrals       (0.441)
+------------------------------
+Tenure in Months          -> Multiple Lines            (0.709)
+------------------------------
+Tenure in Months          -> Online Security           (0.647)
+------------------------------
+Tenure in Months          -> Online Backup             (0.728)
+------------------------------
+Tenure in Months          -> Device Protection Plan    (0.751)
+------------------------------
+Tenure in Months          -> Premium Tech Support      (0.648)
+------------------------------
+Tenure in Months          -> Streaming TV              (0.576)
+------------------------------
+Tenure in Months          -> Streaming Movies          (0.719)
+------------------------------
+Tenure in Months          -> Streaming Music           (0.545)
+------------------------------
+Offer                     -> Online Security           (0.202)
+------------------------------
+Multiple Lines            -> Total Revenue             (0.668)
+------------------------------
+Internet Type             -> Total Revenue             (0.321)
+------------------------------
+Internet Type             -> Paperless Billing         (0.683)
+------------------------------
+Unlimited Data            -> Paperless Billing         (0.316)
+------------------------------
+Online Security           -> Total Revenue             (0.538)
+------------------------------
+Online Backup             -> Total Revenue             (0.678)
+------------------------------
+Device Protection Plan    -> Total Revenue             (0.653)
+------------------------------
+Premium Tech Support      -> Total Revenue             (0.541)
+------------------------------
+Streaming TV              -> Total Revenue             (0.499)
+------------------------------
+Streaming TV              -> Paperless Billing         (0.290)
+------------------------------
+Streaming Movies          -> Total Revenue             (0.523)
+------------------------------
+Streaming Music           -> Total Revenue             (0.325)
+------------------------------
+Total Revenue             -> Churn Label               (0.569)
+------------------------------
+Paperless Billing         -> Churn Label               (0.447)
+------------------------------

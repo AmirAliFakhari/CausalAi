@@ -1,0 +1,14 @@
+Source -> Destination (Weight)
+==============================
+Married                   -> Number of Referrals       (1.000)
+------------------------------
+Married                   -> Tenure in Months          (1.000)
+------------------------------
+Tenure in Months          -> Multiple Lines            (1.000)
+------------------------------
+Tenure in Months          -> Online Backup             (1.000)
+------------------------------
+Tenure in Months          -> Device Protection Plan    (1.000)
+------------------------------
+Tenure in Months          -> Streaming Movies          (1.000)
+------------------------------
